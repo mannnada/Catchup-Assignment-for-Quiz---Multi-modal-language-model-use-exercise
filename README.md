@@ -2,4 +2,4 @@
 
 colab : https://colab.research.google.com/drive/1sVp7srDlkqLJZhnTDTHpgUTSq2P6dPHP?usp=sharing
 
-youtube:
+youtube: https://youtu.be/YKljD0G1kMw
